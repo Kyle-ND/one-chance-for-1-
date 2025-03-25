@@ -1,0 +1,3 @@
+username,password,cheque_account_balance,savings_account_balance,investment_account_balance
+johndoe,secure123,1500.00,3000.00,-
+janedoe,abc123,0,0,-
